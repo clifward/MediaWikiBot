@@ -1,0 +1,12 @@
+mode: job
+wiki:
+  url: <url>
+  user_agent: wiki-bot-golang-client
+  username: <username>
+  password: <password>
+  refresh_delay: 65s
+telegram:
+  chan_id: <chan_id>
+  admin: <admin_id>
+  bot_name: <bot_name>
+  bot_token: <bot_token>
